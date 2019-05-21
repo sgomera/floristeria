@@ -1,0 +1,2 @@
+# floristeria
+Exercici Floristeria
